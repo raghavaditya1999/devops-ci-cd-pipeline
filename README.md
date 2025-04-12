@@ -1,2 +1,2 @@
-# devops-ci-cd-pipeline
-Basic CI/CD pipeline using Jenkins, Docker and Git
+# DevOps CI/CD Pipeline
+Sample project using Jenkins, Docker, and GitHub.
